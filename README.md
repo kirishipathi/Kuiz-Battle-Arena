@@ -13,7 +13,7 @@ Settings
 Owner avatar
 Quiz-Battle-Game
 Private
-ajayoneness/Quiz-Battle-Game
+kirishipathi/Kuiz-Battle-Game
 Name		
 ajayoneness
 ajayoneness
