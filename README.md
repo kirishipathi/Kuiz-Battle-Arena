@@ -1,6 +1,6 @@
 Navigation Menu
-ajayoneness
-Quiz-Battle-Game
+KIRISHIPATHI 
+Kuiz-Battle-Game
 
 Code
 Issues
