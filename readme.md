@@ -1,4 +1,4 @@
-🎮 Quiz Battle Arena
+🎮 Kuiz Battle Arena
 
 A beautiful, interactive web-based quiz game that tests your coding knowledge across multiple programming categories. Built with vanilla HTML, CSS, and JavaScript featuring smooth animations, real-time scoring, and persistent leaderboards.
 
